@@ -16,7 +16,7 @@ Here are a few highlights of my recent work:
 - 🔍 **Image Recognition**: Using Tesseract for Optical Character Recognition (OCR) and FFmpeg for video processing.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kikk-456&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Nikk-123&theme=dracula)
