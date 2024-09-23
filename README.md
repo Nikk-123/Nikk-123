@@ -76,6 +76,7 @@ An implementation of the N-Queen problem using various algorithms, solving the c
 
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Nikk-123&color=blue)
+[![Profile Views](https://komarev.com/ghpvc/?username=Nikk-123&color=blue)](https://github.com/Nikk-123)
 
 > Thank you for visiting my profile! Your support keeps me motivated to explore and create.
+
