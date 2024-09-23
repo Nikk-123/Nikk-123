@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=tokyonight)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk-123&layout=compact&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikk-123&color=blue)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikk-123&theme=react-dark)
 
 
 
