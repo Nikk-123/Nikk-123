@@ -9,10 +9,17 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 - 🧠 **Machine Learning Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, Keras
 - 🌱 **Currently Learning**: Deep Learning, NLP
 
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=tokyonight)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk-123&layout=compact&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikk-123&color=blue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikk-123&theme=tokyonight)
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=Nikk-123&theme=react-dark)
+![Languages Contribution](https://github-readme-stats.vercel.app/api/wakatime?username=Nikk-123&theme=tokyonight)
+![GitHub Actions](https://github-readme-activity-graph.vercel.app/graph?username=Nikk-123&theme=react-dark)
+
+
 
 ## 🌟 Projects
 ### 1. [Flask-Screen-Mirroring-App](https://github.com/Nikk-123/Flask-Screen-Mirroring-App)
