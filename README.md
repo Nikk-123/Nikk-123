@@ -9,11 +9,36 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 - 🧠 **Machine Learning Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, Keras
 - 🌱 **Currently Learning**: Deep Learning, NLP
 
+
 ## 🌟 Projects
-Here are a few highlights of my recent work:
-- 📊 **BMI Calculator**: An interactive tool using JavaScript for calculating BMI with a circular gauge.
-- 🤖 **Machine Learning Models**: Building predictive models using scikit-learn.
-- 🔍 **Image Recognition**: Using Tesseract for Optical Character Recognition (OCR) and FFmpeg for video processing.
+
+### 1. [Flask-Screen-Mirroring-App](https://github.com/Nikk-123/Flask-Screen-Mirroring-App)
+A Flask-based app that mirrors your device screen to the browser, providing a seamless way to share and view screens remotely.
+
+### 2. [Flask-OCR-Screen-Mirror](https://github.com/Nikk-123/flask-ocr-screen-mirror)
+This project emphasizes Flask, OCR (Optical Character Recognition), and screen mirroring. It allows real-time text recognition from mirrored screens.
+
+### 3. [HTML-Calculator](https://github.com/Nikk-123/HTML-Calculator)
+A simple and interactive calculator built with HTML, CSS, and JavaScript. Perform basic arithmetic operations in a user-friendly interface.
+
+### 4. [GareebKaSpotify](https://github.com/Nikk-123/GareebKaSpotify)
+A lightweight music streaming web application inspired by Spotify. It allows users to play, search, and manage music playlists.
+
+### 5. [QuickVidDownload](https://github.com/Nikk-123/QuickVidDownload)
+Fast and efficient media downloader for YouTube, Facebook, and Instagram. Download videos and audio effortlessly with instant completion notifications.
+
+### 6. [Flask-File-Compressor](https://github.com/Nikk-123/flask-file-compressor)
+A Flask web app that compresses files for easy sharing and storage. Supports a variety of file formats with a user-friendly interface.
+
+### 7. [Music-Download-from-YouTube-Using-Python](https://github.com/Nikk-123/Music-download-from-Youtube-Using-Python)
+A Python script to download music from YouTube, converting videos to audio files quickly and easily.
+
+### 8. [Amazon Sales PowerBi Dashboard](https://github.com/Nikk-123/Amazon_Sales-_PowerBi_Dashboard)
+A comprehensive PowerBI dashboard that visualizes Amazon sales data, providing insights into trends, sales performance, and customer behavior.
+
+### 9. [N-Queen](https://github.com/Nikk-123/N-Queen)
+An implementation of the N-Queen problem using various algorithms, solving the classic chess problem of placing N queens on an NxN board without conflict.
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=tokyonight)
