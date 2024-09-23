@@ -19,10 +19,10 @@ Here are a few highlights of my recent work:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kikk-456&show_icons=true&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kikk-456&theme=dracula)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Nikk-123&theme=dracula)
 
 ## 🖥️ GitHub Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kikk-456&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikk-123&theme=react-dark)
 
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
