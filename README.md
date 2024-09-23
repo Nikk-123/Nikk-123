@@ -13,12 +13,8 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=tokyonight)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk-123&layout=compact&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikk-123&color=blue)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikk-123&theme=react-dark)
-
-
 
 ## 🌟 Projects
-
 ### 1. [Flask-Screen-Mirroring-App](https://github.com/Nikk-123/Flask-Screen-Mirroring-App)
 A Flask-based app that mirrors your device screen to the browser, providing a seamless way to share and view screens remotely.
 
@@ -46,15 +42,8 @@ A comprehensive PowerBI dashboard that visualizes Amazon sales data, providing i
 ### 9. [N-Queen](https://github.com/Nikk-123/N-Queen)
 An implementation of the N-Queen problem using various algorithms, solving the classic chess problem of placing N queens on an NxN board without conflict.
 
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=tokyonight)
-
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Nikk-123&theme=dracula)
-
-## 🖥️ GitHub Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikk-123&theme=react-dark)
 
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,8 +61,6 @@ An implementation of the N-Queen problem using various algorithms, solving the c
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayan-das-a863aa25a)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://yourwebsite.com)
-
