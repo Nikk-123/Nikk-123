@@ -13,10 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=tokyonight)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk-123&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=Nikk-123&color=blue)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikk-123&theme=tokyonight)
-
-
 
 
 
@@ -56,6 +53,7 @@ An implementation of the N-Queen problem using various algorithms, solving the c
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikk-123&theme=react-dark)
 
 
+
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -75,3 +73,9 @@ An implementation of the N-Queen problem using various algorithms, solving the c
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayan-das-a863aa25a)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://yourwebsite.com)
+
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Nikk-123&color=blue)
+
+> Thank you for visiting my profile! Your support keeps me motivated to explore and create.
