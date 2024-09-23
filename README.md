@@ -9,6 +9,10 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 - 🧠 **Machine Learning Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, Keras
 - 🌱 **Currently Learning**: Deep Learning, NLP
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk-123&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Nikk-123&color=blue)
 
 
 
@@ -69,5 +73,6 @@ An implementation of the N-Queen problem using various algorithms, solving the c
 
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/chayan-das-a863aa25a)
-- [Personal Portfolio](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayan-das-a863aa25a)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://yourwebsite.com)
+
