@@ -33,9 +33,8 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-### 🌟 Projects
 
-## Featured Projects
+### 🌟 Featured Projects
 
 <details>
 <summary>🌟 Click to View Projects</summary>
