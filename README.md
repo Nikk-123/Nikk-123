@@ -34,32 +34,30 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 
 
 ## 🌟 Projects
-### 1. [Flask-Screen-Mirroring-App](https://github.com/Nikk-123/Flask-Screen-Mirroring-App)
-A Flask-based app that mirrors your device screen to the browser, providing a seamless way to share and view screens remotely.
 
-### 2. [Flask-OCR-Screen-Mirror](https://github.com/Nikk-123/flask-ocr-screen-mirror)
-This project emphasizes Flask, OCR (Optical Character Recognition), and screen mirroring. It allows real-time text recognition from mirrored screens.
+### Featured Projects
 
-### 3. [HTML-Calculator](https://github.com/Nikk-123/HTML-Calculator)
-A simple and interactive calculator built with HTML, CSS, and JavaScript. Perform basic arithmetic operations in a user-friendly interface.
+<div align="center">
 
-### 4. [GareebKaSpotify](https://github.com/Nikk-123/GareebKaSpotify)
-A lightweight music streaming web application inspired by Spotify. It allows users to play, search, and manage music playlists.
+  <details>
+    <summary>🌟 Click to View Projects</summary>
+    
+    1. [Flask-Screen-Mirroring-App](https://github.com/Nikk-123/Flask-Screen-Mirroring-App)  
+       A Flask-based app that mirrors your device screen to the browser, providing a seamless way to share and view screens remotely.  
+       
+    2. [HTML-Calculator](https://github.com/Nikk-123/HTML-Calculator)  
+       A simple and interactive calculator built with HTML, CSS, and JavaScript. Perform basic arithmetic operations in a user-friendly interface.  
+       
+    3. [GareebKaSpotify](https://github.com/Nikk-123/GareebKaSpotify)  
+       A lightweight music streaming web application inspired by Spotify. It allows users to play, search, and manage music playlists.  
 
-### 5. [QuickVidDownload](https://github.com/Nikk-123/QuickVidDownload)
-Fast and efficient media downloader for YouTube, Facebook, and Instagram. Download videos and audio effortlessly with instant completion notifications.
+  </details>
+  
+</div>
 
-### 6. [Flask-File-Compressor](https://github.com/Nikk-123/flask-file-compressor)
-A Flask web app that compresses files for easy sharing and storage. Supports a variety of file formats with a user-friendly interface.
-
-### 7. [Music-Download-from-YouTube-Using-Python](https://github.com/Nikk-123/Music-download-from-Youtube-Using-Python)
-A Python script to download music from YouTube, converting videos to audio files quickly and easily.
-
-### 8. [Amazon Sales PowerBi Dashboard](https://github.com/Nikk-123/Amazon_Sales-_PowerBi_Dashboard)
-A comprehensive PowerBI dashboard that visualizes Amazon sales data, providing insights into trends, sales performance, and customer behavior.
-
-### 9. [N-Queen](https://github.com/Nikk-123/N-Queen)
-An implementation of the N-Queen problem using various algorithms, solving the classic chess problem of placing N queens on an NxN board without conflict.
+<div align="center">
+  <p>➡️ Click on the project names to explore more!</p>
+</div>
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Nikk-123&theme=dracula)
