@@ -45,6 +45,11 @@ An implementation of the N-Queen problem using various algorithms, solving the c
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Nikk-123&theme=dracula)
 
+
+## 🖥️ GitHub Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikk-123&theme=react-dark)
+
+
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
