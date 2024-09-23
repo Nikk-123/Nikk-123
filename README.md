@@ -11,9 +11,11 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk-123&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikk-123&theme=tokyonight)
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=tokyonight) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk-123&layout=compact&theme=tokyonight) |
+|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikk-123&theme=tokyonight)               |                                                                                                                         |
+
 
 
 
