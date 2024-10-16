@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 - 💾 **Databases**: MySQL, MongoDB  
 - ⚙️ **Technologies**: Git, GitHub, Flask, FFmpeg, Tesseract, Bootstrap CSS, Pydub, NLTK, PyAudio, Speech Recognition, Node.js, Express, Nodemon  
 - 🧠 **Machine Learning Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, Keras  
-- 🌱 **Currently Learning**: Deep Learning, NLP  
+ 
 
 
 ## 📊 GitHub Stats
