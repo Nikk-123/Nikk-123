@@ -11,11 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
  
 
 
-## 📊 GitHub Stats
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=tokyonight) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk-123&layout=compact&theme=tokyonight) |
-|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikk-123&theme=tokyonight)                                                                                                                             |
+                                                                                                                            |
 
 
 
@@ -66,12 +62,6 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Nikk-123&theme=dracula)
-
-
-## 🖥️ GitHub Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikk-123&theme=react-dark)
-
-
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayan-das-a863aa25a)
