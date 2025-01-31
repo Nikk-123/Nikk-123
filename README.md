@@ -64,9 +64,6 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** enthusiast a
 <p align="center">➡️ Click on the project names to explore more!</p>
 
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Nikk-123&theme=dracula)
-
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayan-das-a863aa25a)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://yourwebsite.com)
