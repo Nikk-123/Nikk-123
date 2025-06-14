@@ -19,7 +19,8 @@
 
 ---
 
-## 🤝 Let’s Connect
-I’m always open to collaborating, sharing ideas, or networking. Feel free to say hi! 😊
-
-<sub>This profile README was automatically generated and is fully customizable.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikk-123/Nikk-123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikk-123/Nikk-123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nikk-123/Nikk-123/output/pacman-contribution-graph.svg">
+</picture>
