@@ -21,5 +21,9 @@
 
 ## 🟡 Pacman Contribution Graph
 
-![Pacman Contribution Graph](output/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="output/pacman-contribution-graph.svg">
+</picture>
 
