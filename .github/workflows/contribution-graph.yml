@@ -11,9 +11,13 @@ on:
     - main
 
 jobs:
+<<<<<<< HEAD
   generate:
     permissions:
       contents: write
+=======
+  generate-graph:
+>>>>>>> parent of 34c37e3 (Add permissions for contents in contribution graph workflow)
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
