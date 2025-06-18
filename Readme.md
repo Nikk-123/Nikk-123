@@ -19,7 +19,7 @@
 
 ---
 
-## 🟡 Pacman Contribution Game
+## 🟡 Pacman Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikk-123/Nikk-123/output/pacman-contribution-graph-dark.svg">
