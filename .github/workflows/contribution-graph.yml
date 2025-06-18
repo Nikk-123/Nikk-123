@@ -19,6 +19,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create output directory
+        run: mkdir -p output
+
       - name: Generate Pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -28,5 +31,5 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output/
+          git add output/ || true
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update Pacman contribution graph" && git push) 
