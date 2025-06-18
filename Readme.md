@@ -3,7 +3,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Passionate learner exploring software development, AI, and open-source.
+- 🎓 Passionate learner exploring software development & Machine Learning .
 - 💼 Currently diving into Machine Learning .
 - 🌱 On a journey to build meaningful projects and contribute to the community.
 
