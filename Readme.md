@@ -21,9 +21,9 @@
 
 ## 🟡 Pacman Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="output/pacman-contribution-graph.svg">
-</picture>
+![Animated Pacman Contribution Graph](output/pacman-animated.svg)
+
+**🎮 Watch Pacman eat through your 2025 GitHub contributions!** 
+
+*The yellow Pacman character is animated and moves across the screen, representing your coding journey through 2025!*
 
