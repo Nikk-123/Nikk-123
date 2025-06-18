@@ -23,9 +23,9 @@ jobs:
         run: mkdir -p output
 
       - name: Generate Pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
+        run: |
+          curl -o output/pacman-contribution-graph.svg "https://ghchart.rshah.org/2ecc71/${{ github.repository_owner }}"
+          curl -o output/pacman-contribution-graph-dark.svg "https://ghchart.rshah.org/2ecc71/${{ github.repository_owner }}?dark=true"
 
       - name: Push to repository
         run: |
