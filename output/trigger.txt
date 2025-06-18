@@ -1,0 +1,2 @@
+# Trigger file to generate Pacman contribution graph
+# This will force the workflow to run and create your real 2025 contribution data 
