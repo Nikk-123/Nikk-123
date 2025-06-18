@@ -17,13 +17,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk-123&layout=compact&theme=radical)
 
----
-
-## 🟡 Pacman Contribution Graph
-
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Nikk-123/Nikk-123/main/output/pacman-contribution-graph.svg)
-
-<!-- Dark mode version -->
-![Pacman Contribution Graph Dark](https://raw.githubusercontent.com/Nikk-123/Nikk-123/main/output/pacman-contribution-graph-dark.svg)
 
 
