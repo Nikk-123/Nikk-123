@@ -1,7 +1,7 @@
 # Hi there, I'm **Chayan** 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22A39F&width=400&height=35&lines=Hi👋+I'm+Chayan+Das...;Developer+%7C+ML+Enthusiast;Building+Cool+Projects;Open+Source+Contributor;Always+Learning+and+Growing..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22A39F&width=400&height=35&lines=Hi👋+I'm+Chayan+Das...;Developer+%7C+ML+Enthusiast;Building+Cool+Projects;Always+Learning+and+Growing..." alt="Typing SVG" />
 </p>
 
 ---
