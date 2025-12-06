@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi there, I'm Chayan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer;Machine+Learning+Enthusiast;" alt="Typing SVG" /></a>
 
  <p>
     <em>Computer Science Student • ML Practitioner • Full Stack Developer</em>
