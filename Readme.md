@@ -8,7 +8,7 @@
     <em>Computer Science Student • ML Practitioner • Full Stack Developer</em>
  </p>
 
- <a href="#"><img src="https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+ <a href="https://chayan.live"><img src="https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  <br/>
@@ -28,12 +28,12 @@ I am a CSE student bridging the gap between data science and application develop
 
 ### 🛠️ Languages and Tools
 
-<p align="left"> 
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,dart" /> 
   <img src="https://skillicons.dev/icons?i=flask,nodejs,flutter,html,css" /> <br>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql" /> 
   <img src="https://skillicons.dev/icons?i=docker,aws,git,postman,vscode" />
-</p>
+</div>
 
 ---
 
