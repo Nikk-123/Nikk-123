@@ -9,7 +9,7 @@
  </p>
 
  <a href="https://chayan.live"><img src="https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/chayan-das-a863aa25a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  <br/>
 </div>
@@ -29,10 +29,10 @@ I am a CSE student bridging the gap between data science and application develop
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,dart" /> 
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,dart,php" /> 
   <img src="https://skillicons.dev/icons?i=flask,nodejs,flutter,html,css" /> <br>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql" /> 
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,git,jira,postman,vscode" />
 </div>
 
 ---
