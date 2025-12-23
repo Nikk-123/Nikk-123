@@ -37,12 +37,7 @@ I am a CSE student bridging the gap between data science and application develop
 
 ---
 
-### 📈 Coding Activity
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Nikk-123&show_icons=true&theme=radical&hide=stars" width="48%" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikk-123&theme=radical" width="48%" />
-</div>
 
 <br>
 
