@@ -1,0 +1,33 @@
+name: Update GitHub Space Shooter GIF
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # Every day at midnight UTC (~5:30 AM IST)
+  workflow_dispatch:        # Lets you trigger manually from Actions tab
+
+permissions:
+  contents: write           # Required to commit the GIF back
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate Space Shooter GIF
+        uses: czl9707/gh-space-shooter@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'assets/space-shooter.gif'   # Put it in an assets folder (cleaner)
+          strategy: 'random'                        # or 'row' / 'column' for patterns
+          fps: 35                                   # Slightly lower than 40 → smaller file, still smooth
+          # commit-message: 'chore: update space shooter game gif'   # optional, uncomment if you want custom message
+
+      - name: Commit updated GIF
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add assets/space-shooter.gif
+          git commit -m "chore: update space shooter animation [ci skip]" || echo "No changes to commit"
+          git push
