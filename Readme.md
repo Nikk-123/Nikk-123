@@ -41,7 +41,3 @@ My contribution graph turned into an epic retro shooter! 🚀
 <div align="center">
 <img src="assets/space-shooter.gif" alt="GitHub Contributions as Space Shooter Game" width="600"/>
 </div>
----
-<br>
-
-> **"Keep shipping. Keep learning. Stay consistent."**
