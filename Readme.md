@@ -39,6 +39,17 @@ I am a CSE student bridging the gap between data science and application develop
 
 
 
+### Featured Project
+
+<div align="center">
+  <p><strong>Space Shooter</strong> - open-source space shooter game.</p>
+  <a href="https://github.com/czl9707/gh-space-shooter">
+    <img src="https://img.shields.io/badge/Space_Shooter-View_Repo-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
 <br>
 
 > **"Keep shipping. Keep learning. Stay consistent."**
