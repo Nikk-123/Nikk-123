@@ -35,6 +35,12 @@ I am a CSE student bridging the gap between data science and application develop
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,git,jira,postman,vscode" />
 </div>
 
+## 🎮 GitHub Game: Space Shooter Edition
+My contribution graph turned into an epic retro shooter! 🚀
+
+<div align="center">
+<img src="assets/space-shooter.gif" alt="GitHub Contributions as Space Shooter Game" width="600"/>
+</div>
 ---
 <br>
 

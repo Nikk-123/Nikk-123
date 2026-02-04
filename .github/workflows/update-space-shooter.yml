@@ -15,13 +15,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Ensure assets folder exists
+        run: mkdir -p assets
+
       - name: Generate Space Shooter GIF
         uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'assets/space-shooter.gif'   # Put it in an assets folder (cleaner)
           strategy: 'random'                        # or 'row' / 'column' for patterns
-          fps: 35                                   # Slightly lower than 40 → smaller file, still smooth
           # commit-message: 'chore: update space shooter game gif'   # optional, uncomment if you want custom message
 
       - name: Commit updated GIF
