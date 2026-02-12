@@ -1,6 +1,11 @@
 name: Update GitHub Space Shooter GIF
 
 on:
+  push:
+    branches:
+      - main                # Trigger on pushes to main branch
+    paths-ignore:
+      - 'assets/space-shooter.gif'  # Prevent infinite loops from bot commits
   schedule:
     - cron: '0 0 * * *'    # Every day at midnight UTC (~5:30 AM IST)
   workflow_dispatch:        # Lets you trigger manually from Actions tab
